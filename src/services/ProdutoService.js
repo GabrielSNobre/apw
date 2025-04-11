@@ -1,4 +1,4 @@
-const API_URL = "CRIE UMA API PARA PRODUTOS AQUI UTILIZANDO O MOCKAPI.IO";
+const API_URL = "https://67f85df12466325443ec7f6c.mockapi.io/produtos";
 
 export const ProdutoService = {
     async getProdutos() {
